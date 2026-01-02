@@ -128,4 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-phasenettf/data/
+phasenettfps/data/
+*.pkl
+*.nc

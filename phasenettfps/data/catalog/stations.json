@@ -1,0 +1,1158 @@
+{
+    "YL.A01..BH": {
+        "longitude": -175.62,
+        "latitude": -21.53,
+        "elevation_m": -1059.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.A02W..HH": {
+        "longitude": -175.79,
+        "latitude": -21.49,
+        "elevation_m": -2015.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.A03..BH": {
+        "longitude": -175.9,
+        "latitude": -21.44,
+        "elevation_m": -1955.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.A14W..HH": {
+        "longitude": -178.16,
+        "latitude": -20.67,
+        "elevation_m": -884.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.B03..BH": {
+        "longitude": -175.39,
+        "latitude": -19.94,
+        "elevation_m": -2015.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C01W..HH": {
+        "longitude": -175.22,
+        "latitude": -20.53,
+        "elevation_m": -1655.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C02..BH": {
+        "longitude": -175.64,
+        "latitude": -20.41,
+        "elevation_m": -2062.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C03W..HH": {
+        "longitude": -175.72,
+        "latitude": -20.94,
+        "elevation_m": -2084.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C05W..HH": {
+        "longitude": -175.95,
+        "latitude": -20.6,
+        "elevation_m": -2289.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C10W..HH": {
+        "longitude": -176.19,
+        "latitude": -20.77,
+        "elevation_m": -2162.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C11W..HH": {
+        "longitude": -176.26,
+        "latitude": -21.03,
+        "elevation_m": -2214.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C16W..HH": {
+        "longitude": -176.83,
+        "latitude": -20.57,
+        "elevation_m": -2213.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C17W..HH": {
+        "longitude": -177.26,
+        "latitude": -20.13,
+        "elevation_m": -2822.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.F02W..HH": {
+        "longitude": -174.44,
+        "latitude": -21.35,
+        "elevation_m": -2602.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.S01W..HH": {
+        "longitude": -176.04,
+        "latitude": -21.95,
+        "elevation_m": -1980.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.FONI..BH": {
+        "longitude": -174.63,
+        "latitude": -20.28,
+        "elevation_m": 19.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.NMKA..BH": {
+        "longitude": -174.8,
+        "latitude": -20.26,
+        "elevation_m": 22.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.TNGA..BH": {
+        "longitude": -175.33,
+        "latitude": -21.06,
+        "elevation_m": 25.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.A05..BH": {
+        "longitude": -176.17,
+        "latitude": -21.35,
+        "elevation_m": -2368.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.A07..BH": {
+        "longitude": -176.39,
+        "latitude": -21.27,
+        "elevation_m": -2485.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.A10W..HH": {
+        "longitude": -176.81,
+        "latitude": -21.13,
+        "elevation_m": -1879.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.EUAP..BH": {
+        "longitude": -174.91,
+        "latitude": -21.44,
+        "elevation_m": 158.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.A06W..HH": {
+        "longitude": -176.32,
+        "latitude": -21.3,
+        "elevation_m": -2137.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.A08W..HH": {
+        "longitude": -176.53,
+        "latitude": -21.23,
+        "elevation_m": -2290.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.A09..BH": {
+        "longitude": -176.67,
+        "latitude": -21.18,
+        "elevation_m": -2455.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.A11..BH": {
+        "longitude": -177.03,
+        "latitude": -21.04,
+        "elevation_m": -1990.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.A12W..HH": {
+        "longitude": -177.26,
+        "latitude": -20.98,
+        "elevation_m": -2574.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.A13..BH": {
+        "longitude": -177.53,
+        "latitude": -20.89,
+        "elevation_m": -2674.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.B01W..HH": {
+        "longitude": -175.02,
+        "latitude": -20.05,
+        "elevation_m": -1723.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.B02..BH": {
+        "longitude": -175.19,
+        "latitude": -20.0,
+        "elevation_m": -1495.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.B04W..HH": {
+        "longitude": -175.53,
+        "latitude": -19.89,
+        "elevation_m": -2197.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.B05W..HH": {
+        "longitude": -175.71,
+        "latitude": -19.84,
+        "elevation_m": -2349.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.B06..BH": {
+        "longitude": -175.84,
+        "latitude": -19.79,
+        "elevation_m": -2201.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.B07W..HH": {
+        "longitude": -175.98,
+        "latitude": -19.74,
+        "elevation_m": -2623.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.B08..BH": {
+        "longitude": -176.07,
+        "latitude": -19.72,
+        "elevation_m": -2625.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.B11W..HH": {
+        "longitude": -176.48,
+        "latitude": -19.58,
+        "elevation_m": -2060.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.B12..BH": {
+        "longitude": -176.7,
+        "latitude": -19.5,
+        "elevation_m": -2335.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.B14W..HH": {
+        "longitude": -177.99,
+        "latitude": -19.04,
+        "elevation_m": -2219.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C06..BH": {
+        "longitude": -176.05,
+        "latitude": -20.95,
+        "elevation_m": -2406.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C08W..HH": {
+        "longitude": -176.12,
+        "latitude": -20.25,
+        "elevation_m": -2785.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C09W..HH": {
+        "longitude": -176.15,
+        "latitude": -20.55,
+        "elevation_m": -2537.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C12..BH": {
+        "longitude": -176.29,
+        "latitude": -20.06,
+        "elevation_m": -2587.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C13..BH": {
+        "longitude": -176.36,
+        "latitude": -20.45,
+        "elevation_m": -2280.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C15..BH": {
+        "longitude": -176.72,
+        "latitude": -20.05,
+        "elevation_m": -2512.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.N01W..HH": {
+        "longitude": -175.49,
+        "latitude": -19.02,
+        "elevation_m": -2325.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.N02W..HH": {
+        "longitude": -176.4,
+        "latitude": -18.75,
+        "elevation_m": -2717.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.N03W..HH": {
+        "longitude": -177.03,
+        "latitude": -18.4,
+        "elevation_m": -2304.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.S02W..HH": {
+        "longitude": -176.9,
+        "latitude": -21.8,
+        "elevation_m": -2043.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.CICA..BH": {
+        "longitude": -179.34,
+        "latitude": -17.73,
+        "elevation_m": 12.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.FOA..BH": {
+        "longitude": -174.29,
+        "latitude": -19.74,
+        "elevation_m": 27.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.PNGI..BH": {
+        "longitude": -174.35,
+        "latitude": -19.82,
+        "elevation_m": 18.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.TVNI..BH": {
+        "longitude": -179.91,
+        "latitude": -16.71,
+        "elevation_m": 109.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.VABL..BH": {
+        "longitude": -178.96,
+        "latitude": -17.25,
+        "elevation_m": 53.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.VAVP..BH": {
+        "longitude": -173.96,
+        "latitude": -18.6,
+        "elevation_m": 65.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C04..BH": {
+        "longitude": -175.92,
+        "latitude": -20.18,
+        "elevation_m": -2197.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "II.MSVF..BH": {
+        "longitude": 178.05,
+        "latitude": -17.74,
+        "elevation_m": 801.1,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.B09W..HH": {
+        "longitude": -176.2,
+        "latitude": -19.65,
+        "elevation_m": -2626.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.B10..BH": {
+        "longitude": -176.33,
+        "latitude": -19.61,
+        "elevation_m": -2237.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.B13..BH": {
+        "longitude": -177.27,
+        "latitude": -19.29,
+        "elevation_m": -2077.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.C07W..HH": {
+        "longitude": -176.1,
+        "latitude": -19.99,
+        "elevation_m": -2648.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.LBSA..BH": {
+        "longitude": 179.3,
+        "latitude": -16.54,
+        "elevation_m": 140.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.LKBA..BH": {
+        "longitude": -178.81,
+        "latitude": -18.2,
+        "elevation_m": 92.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.NADI..BH": {
+        "longitude": 177.49,
+        "latitude": -17.72,
+        "elevation_m": 27.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.KDVU..BH": {
+        "longitude": 178.17,
+        "latitude": -19.05,
+        "elevation_m": 83.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.MOAL..BH": {
+        "longitude": 179.95,
+        "latitude": -18.57,
+        "elevation_m": 9.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "YL.A04W..HH": {
+        "longitude": -176.03,
+        "latitude": -21.4,
+        "elevation_m": -2230.0,
+        "local_depth_m": 0,
+        "component": [
+            "1",
+            "2",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.DEBA..BH": {
+        "longitude": 178.06,
+        "latitude": -18.25,
+        "elevation_m": 63.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    },
+    "Z1.SUVA..BH": {
+        "longitude": 178.45,
+        "latitude": -18.11,
+        "elevation_m": 43.0,
+        "local_depth_m": 0,
+        "component": [
+            "E",
+            "N",
+            "Z"
+        ],
+        "sensitivity": [
+            -9999,
+            -9999,
+            -9999
+        ],
+        "unit": "m/s"
+    }
+}

@@ -1,7 +1,20 @@
-from phasenettfps.scripts import *
 import sys
 
-scripts_mapper = {}
+from phasenettfps.scripts import *
+
+scripts_mapper = {
+    "manuscript_event_station_distribution": manuscript_event_station_distribution_main,
+    "manuscript_manual_picks_ptf_example": manuscript_manual_picks_ptf_example_main,
+    "manuscript_timediff_vs_distance": manuscript_timediff_vs_distance_main,
+    "manuscript_ptf_predictions_ptf_example": manuscript_ptf_predictions_ptf_example_main,
+    "manuscript_beamforming_example": manuscript_beamforming_example_main,
+    "manuscript_mcmc_histogram": manuscript_mcmc_histogram_main,
+    "manuscript_prior_posterior_distribution": manuscript_prior_posterior_distribution_main,
+    "manuscript_ps_residual": manuscript_ps_residuals_main,
+    "manuscript_compare_manual_final_catalogs": manuscript_compare_manual_final_catalogs_main,
+    "manuscript_ps_residuals": manuscript_ps_residuals_main,
+    "manuscript_final_map_compare": manuscript_final_map_compare_main,
+}
 
 
 def main():
